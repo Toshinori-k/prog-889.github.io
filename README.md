@@ -1,13 +1,3 @@
 # prog-889.github.io
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Progate</title>
-    <link rel="stylesheet" href="stylesheet.css">
-  </head>
-  <body>
-    <h1 class="title">HTML & CSS の開発環境を用意しよう！</h1>
-    <p>自分のPCでWebページを開発する方法を学習しましょう!!</p>
-  </body>
-</html>
+![top](https://user-images.githubusercontent.com/119587700/208270061-41ce1966-9340-4ca7-9c65-65d564655db2.png)
+
